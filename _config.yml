@@ -1,8 +1,9 @@
 ---
 version: 4.3.4
-name: Jekyll • Simple, blog-aware, static sites
+name: Damilare Adedoyin's Blog
+title: Damilare Adedoyin's Blog
 description: Transform your plain text into static websites and blogs
-url: https://damilare.github.io
+url: https://damilare.github.io/blog
 repository: https://github.com/jekyll/jekyll
 site_branch: master
 timezone: America/Los_Angeles
