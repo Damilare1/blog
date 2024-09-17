@@ -3,7 +3,7 @@ version: 4.3.4
 name: Damilare Adedoyin's Blog
 title: Damilare Adedoyin's Blog
 description: Transform your plain text into static websites and blogs
-url: https://damilare.github.io/blog
+url: https://blog.damilareadedoyin.xyz
 repository: https://github.com/jekyll/jekyll
 site_branch: master
 timezone: America/Los_Angeles
